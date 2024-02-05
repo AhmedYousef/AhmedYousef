@@ -13,7 +13,7 @@
 
 
 
-### Let's connect! Reach out to me here or find more about my professional journey on:
+### Talk with me, I'm kinda awesome:
 [<img align="left" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 
 <br />
