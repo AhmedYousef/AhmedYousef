@@ -1,6 +1,6 @@
 ### Hi, I'm Ahmed  👋
 
- <img align="right" alt="GIF" src="https://github.com/AhmedYousef/AhmedYousef/blob/main/coffee-laptop-mouse.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/AhmedYousef/AhmedYousef/blob/main/coffee-laptop-mouse.gif?raw=true" width="450" height="320" />
 
 
 ## Software Engineer at IBM
