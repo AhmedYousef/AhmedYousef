@@ -5,7 +5,7 @@
 
 ## Software Engineer at IBM
 - 🔭 Currently working on certifying AWS Developer Associate
-- 🌱 Currently learning PostgreSQL
+- 🌱 Currently learning and revising Algorithms & Datastructure as a part of coding interview preparation.
 - 👯 Looking to collaborate on Open Source Project
 - 💬 Ask me about developing habits
 - 📫 How to reach me: [twitter]
